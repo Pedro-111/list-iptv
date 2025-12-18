@@ -83,7 +83,17 @@ Solo agrega el enlace como **Playlist URL**.
 * Compatible con listas remotas
 
 ---
+---
 
+## 📁 Otras listas disponibles
+
+* 🇵🇪 **Lista Perú**
+  👉 [https://pedro-111.github.io/list-iptv/iptv-pe.m3u](https://pedro-111.github.io/list-iptv/iptv-pe.m3u)
+
+* 🌍 **Lista Global**
+  👉 [https://pedro-111.github.io/list-iptv/global.m3u](https://pedro-111.github.io/list-iptv/global.m3u)
+
+---
 ## ⚠️ Aviso legal
 
 * Esta lista es **solo para fines educativos y de prueba**

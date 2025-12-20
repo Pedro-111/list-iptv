@@ -3,7 +3,7 @@
 https://servilive.com:3624/stream/play.m3u8
 
 #EXTINF:-1 tvg-id="americatelevision" tvg-name="America Television" group-title="Estados Unidos",America Television
-http://181.188.216.5:18000/play/a014/index.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/americatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="antares" group-title="Perú",Antares Televisión (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
@@ -165,7 +165,7 @@ https://tv.ondadigital.pe/ondadigital/index.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="panamerica" tvg-name="Panamericana TV" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png" group-title="Perú",Panamericana TV
-https://iblups.com/embed/panamericanape
+https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="panctvperu" group-title="Perú",Panc TV Peru
 https://panel.host-live.com:19360/20000/20000.m3u8
@@ -328,4 +328,5 @@ https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Perú",VNP
 #EXTVLCOPT:network-caching=1000
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
+
 
